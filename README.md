@@ -49,6 +49,36 @@ Also Connected it to the database
 Screenshot:
 <img width="1093" height="857" alt="image" src="https://github.com/user-attachments/assets/7e9c5a72-501f-46a2-b0f9-dcef2f2cb96b" />
 
+👁️ View Employee
+- Displays all employee records in a table
+  
+- Search employee by Employee ID
 
+- Print employee records
+  
+- Navigate to Update Employee screen
+
+  Screenshot
+  <img width="1103" height="643" alt="Screenshot 2026-04-06 134330" src="https://github.com/user-attachments/assets/00e8b701-fa16-4d64-9b87-0e9c492a2651" />
+
+
+✏️ Update Employee
+- Edit employee details such as Father's Name, Salary, Address,
+  Phone, Email, Education and Designation
+- Pre-fills current data from the database
+- Saves updated details back to MySQL
+
+  Screenshot
+  <img width="1098" height="855" alt="Screenshot 2026-04-06 134824" src="https://github.com/user-attachments/assets/893b857f-3021-4deb-8af2-821cf9ed22b9" />
+   <img width="551" height="493" alt="Screenshot 2026-04-06 134351" src="https://github.com/user-attachments/assets/6a0389fb-52f0-4ac1-8d67-a15759ddb438" />
+
+
+ 🗑️ Remove Employee
+- Select an employee by Employee ID
+- Previews employee Name, Phone, and Email before deletion
+- Permanently deletes the employee record from the database
+
+Screenshot
+<img width="1227" height="485" alt="Screenshot 2026-04-06 134410" src="https://github.com/user-attachments/assets/b694f500-5351-40b0-851d-3d92230f8bd4" />
 
 
